@@ -1,7 +1,6 @@
 backend:
   name: github
-  branch: main 
-  base_url: 'https://recocards-help.netlify.app'
+  branch: main
   repo: sanjay51/recocards-help
 
 # These lines should *not* be indented
