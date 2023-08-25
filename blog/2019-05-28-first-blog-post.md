@@ -1,5 +1,5 @@
 ---
-title: First Blog Post!!
+title: First Blog Post!! Yay!
 slug: first-blog-post
 tags:
   - hola
