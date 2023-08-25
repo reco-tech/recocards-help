@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'RecoCards.com Help',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Create Group Greeting Cards, Free!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
