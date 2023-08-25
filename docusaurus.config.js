@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/reco-tech/recocards-help',
+            'https://github.com/sanjay51/recocards-help',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/reco-tech/recocards-help',
+           editUrl:
+            'https://github.com/sanjay51/recocards-help',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -66,7 +66,7 @@ const config = {
       navbar: {
         title: 'Help',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'RecoCards Logo',
           src: 'https://d3rs2nclqxzidb.cloudfront.net/other-images/logo3.png',
         },
         items: [
