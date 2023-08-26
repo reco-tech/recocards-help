@@ -38,12 +38,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/sanjay51/recocards-help',
         },
+        //blog: false,
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -76,10 +78,10 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://recocards.com',
-            label: 'Home',
+            label: 'Back to RecoCards',
             position: 'right',
           },
         ],
