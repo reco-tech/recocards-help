@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Help',
+        title: '',
         logo: {
           alt: 'RecoCards Logo',
           src: 'https://d3rs2nclqxzidb.cloudfront.net/other-images/logo3.png',
@@ -76,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Help',
           },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
@@ -93,8 +93,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Help',
+                to: '/',
               },
             ],
           },
