@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 'Deliver' button not showing
 
-> Issue: You created a card or board on [RecoCards.com](https://recocards.com), but the delivery button isn't there.
+> Issue: You created a card or board on [RecoCards.com](https://recocards.com), but the *Deliver* button isn't there.
 
 ## 1. Make sure you're signed in.
 
