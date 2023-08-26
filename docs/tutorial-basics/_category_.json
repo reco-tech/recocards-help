@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Cards & Boards",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Common questions around card customizations"
   }
 }
