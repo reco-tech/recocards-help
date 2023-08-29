@@ -8,7 +8,7 @@ Two options -
 
 ## 1. RecoCards for business
 
-[RecoCards for business](recocards.com/business/) provides a white label solution for this use-case, with business specific controls and automations.
+[RecoCards for business](https://recocards.com/business/) provides a white label solution for this use-case, with business specific controls and automations.
 
 ## 2. Premium cards and boards
 
