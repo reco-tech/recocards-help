@@ -12,4 +12,4 @@ Go to your board -> Click Customize button -> Scroll down to 'More settings', an
 
 ## Greeting Cards
 
-Greeting cards do not current support gifts.
+Greeting cards do not currently support gifts.
