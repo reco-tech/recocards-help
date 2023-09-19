@@ -3,7 +3,7 @@ sidebar_position: 5
 slug: /reach-us
 ---
 
-# Reach us
+# Other Help
 
 **Important: Please do not contact us without checking the help pages above.**
 
