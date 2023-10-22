@@ -16,7 +16,7 @@ If you create a card and are not signed in, we save a temporary token in your br
 
 So, after signining in from the same browser that you created the card with, open the card link there, and it should automatically resolve the issue.
 
-## 3. Make sure your link is correct.
+## 4. Make sure your link is correct.
 
 There are two types of card links with slightly different UI:
 - Creator and collaborator link:
