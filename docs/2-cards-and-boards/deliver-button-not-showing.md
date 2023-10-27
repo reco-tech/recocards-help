@@ -20,9 +20,9 @@ So, after signining in from the same browser that you created the card with, ope
 
 There are two types of card links with slightly different UI:
 - Creator and collaborator link:
-    - Boards: [https://recocards.com/[**board**]/my-board-66547516750](), and for greeting cards: [https://recocards.com/[**greeting-card**]/my-greeting-card-34892]()
+    - Boards: https://recocards.com/[**board**]/my-board-66547516750, and for greeting cards: https://recocards.com/[**greeting-card**]/my-greeting-card-34892
 - Recipient link:
-    - Boards: [https://recocards.com/[**view/b**]/my-board-66547516750](), and for greeting cards: [https://recocards.com/[**view/gc**]/my-greeting-card-62990534184]()
+    - Boards: https://recocards.com/[**view/b**]/my-board-66547516750, and for greeting cards: https://recocards.com/[**view/gc**]/my-greeting-card-62990534184
 
 (note the bold part of these links above)
 
