@@ -2,6 +2,8 @@
 sidebar_position: 10
 ---
 
+# Deliver Or Invite
+
 ## I want to invite people to contribute to a board / card (i.e. sign a card)
 
 Use the 'Invite' button.
