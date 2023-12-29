@@ -16,6 +16,6 @@ Card creators can drag and drop any messages on a card. They can even delete the
 
 ![recocards - moving messages](img/i2.png)
 
-## 2. Organize better
+## 2. Use multiple pages
 
 Recocards offer unlimited pages on a card, so you can always move some messages to a different page.
