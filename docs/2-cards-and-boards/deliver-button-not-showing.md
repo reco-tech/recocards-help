@@ -28,6 +28,11 @@ There are two types of card links with slightly different UI:
 
 The 'Deliver' button is only shown on the creator and collaborator links.
 
-## 3. Reach us
+## Try the card troubleshooter
+
+Try it here - https://recocards.com/tools/card-troubleshooter 
+It may fix your issue. This is a new tool, so if it works for you, please do let us know at feedback@recocards.com.
+
+## 6. Reach us
 
 If you still have issues, please reach us at help@recocards.com.
