@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# Deliver Or Invite
+# When to use `Deliver` vs `Invite`
 
 Some users complained that their invitees can't see the button to add a message to a board / card.
 
