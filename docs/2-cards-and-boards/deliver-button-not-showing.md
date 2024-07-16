@@ -2,9 +2,9 @@
 sidebar_position: 12
 ---
 
-# 'Deliver' button not showing
+# Cannot Edit Card, Or 'Deliver' button not showing
 
-> Issue: You created a card or board on [RecoCards.com](https://recocards.com), but the *Deliver* button isn't there.
+> Issue: You created a card or board on [RecoCards.com](https://recocards.com), but the **Deliver / Customize** buttons aren't there.
 
 ## 1. Make sure you're signed in.
 
@@ -26,7 +26,7 @@ There are two types of card links with slightly different UI:
 
 (note the bold part of these links above)
 
-The 'Deliver' button is only shown on the creator and collaborator links.
+The 'Deliver / Customize' buttons are only shown on the creator and collaborator links.
 
 ## 5. Try the card troubleshooter
 
