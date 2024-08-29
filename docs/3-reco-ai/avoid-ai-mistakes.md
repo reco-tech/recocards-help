@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# AI making mistakes? Here is how to fix it
+# AI making mistakes? Here is how to fix them.
 
 RecoCards AI is based on a trained LLM model, capable of generating amazing personalized cover images. However, at times, it may make mistakes. Here is how to fix them:
 
